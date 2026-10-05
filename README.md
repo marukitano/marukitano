@@ -1,33 +1,72 @@
-# Hi, I'm Maru 👋
+<div align="center">
 
-Mechanical engineer, Linux enthusiast and maker from Switzerland. I like building small tools that solve real problems — especially for Pebble, Linux, open source and hacker/maker projects.
+# 👋 Hi, I'm Maru
 
-## Projects
+**Mechanical engineer · Linux enthusiast · maker · open-source tinkerer**
 
-### Pebble Time 2
+Switzerland 🇨🇭
 
-- [Nasu](https://github.com/marukitano/Nasu) — Native medication reminder app with scheduled reminders, pills and injection pens.
-- [OpenLibreLinkUp](https://github.com/marukitano/OpenLibreLinkUp) — Glucose-monitoring watchface using LibreLinkUp data.
-- [Swiss Chronograph](https://github.com/marukitano/Swiss-Chronograph) — Minimal swipe-driven countdown timer.
-- [Lavalamp](https://github.com/marukitano/Lavalamp) — Animated binary watchface inspired by a lava lamp.
-- [FCK Gravity](https://github.com/marukitano/FCK_Gravity) — Gravity-driven vector watchface.
-- [Hidden in Perspective](https://github.com/marukitano/Hidden_in_Perspective) — Pebble Time 2 adaptation of the Perspective watchface.
-- [Past Present Future](https://github.com/marukitano/past-present-future) — Animated watchface built around past, present and future.
-- [WeightTracker](https://github.com/marukitano/weighttracker-Pebble-time-2) — Standalone Pebble app for tracking weight over time.
+![Linux](https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-111?style=flat-square&logo=opensourceinitiative&logoColor=white)
+![Pebble](https://img.shields.io/badge/Pebble-111?style=flat-square&logo=pebble&logoColor=white)
+![C](https://img.shields.io/badge/C-111?style=flat-square&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git&logoColor=white)
 
-### Linux & Open Source
+</div>
 
-- [The Linux Command Line – German Translation](https://github.com/marukitano/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru) — German translation of William Shotts' *The Linux Command Line*.
-- [3ventz.ch](https://github.com/marukitano/3ventz.ch) — Cyberpunk-style yearly calendar for hacker, maker, open-source and security events.
+> I like building small things that solve real problems — especially around **Pebble, Linux, open source, hardware and hacker/maker projects**.
 
-### Other projects
+---
 
-- [Camino Guard](https://github.com/marukitano/Camino-Guard) — Camino de Santiago companion app project for Pebble Time 2, focused on progress, route data and off-route warnings.
+## ⌚ Pebble Time 2
 
-## Hackerspace
+| Project | What it does |
+|---|---|
+| 💊 [**Nasu**](https://github.com/marukitano/Nasu) | Native medication reminder with scheduled doses, pills and injection pens |
+| 🩸 [**OpenLibreLinkUp**](https://github.com/marukitano/OpenLibreLinkUp) | Glucose-monitoring watchface using LibreLinkUp data |
+| ⏱️ [**Swiss Chronograph**](https://github.com/marukitano/Swiss-Chronograph) | Minimal swipe-driven countdown timer |
+| 🫧 [**Lavalamp**](https://github.com/marukitano/Lavalamp) | Animated binary watchface inspired by a lava lamp |
+| 🧭 [**FCK Gravity**](https://github.com/marukitano/FCK_Gravity) | Gravity-driven vector watchface |
+| 🔭 [**Hidden in Perspective**](https://github.com/marukitano/Hidden_in_Perspective) | Pebble Time 2 adaptation of the Perspective watchface |
+| ⏳ [**Past Present Future**](https://github.com/marukitano/past-present-future) | Animated watchface built around past, present and future |
+| ⚖️ [**WeightTracker**](https://github.com/marukitano/weighttracker-Pebble-time-2) | Standalone Pebble app for tracking weight over time |
 
-I'm also involved with [Odenwilusenz](https://github.com/odenwilusenz), where various community hardware, software and maker projects are collected.
+## 🐧 Linux & Open Source
 
-## What I like working on
+### 📖 The Linux Command Line — German Translation
 
-Linux · Open Source · Pebble · Embedded systems · Cybersecurity · Hardware · 3D printing · Maker projects
+A German translation of William Shotts' *The Linux Command Line*.
+
+➡️ [**Open the translation project**](https://github.com/marukitano/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru)
+
+### 🗓️ 3ventz.ch
+
+A tiny cyberpunk-style yearly calendar for **hacker, maker, open-source and security events**.
+
+➡️ [**Open 3ventz.ch**](https://github.com/marukitano/3ventz.ch)
+
+## 🥾 Other projects
+
+### Camino Guard
+
+A Camino de Santiago companion project for the Pebble Time 2, focused on route progress, daily destinations, elevation data and off-route warnings.
+
+➡️ [**Open Camino Guard**](https://github.com/marukitano/Camino-Guard)
+
+---
+
+## 🛠️ Things I enjoy
+
+`Linux` · `Open Source` · `Pebble` · `Embedded Systems` · `Cybersecurity` · `Hardware` · `3D Printing` · `Maker Projects`
+
+## 🏴‍☠️ Hackerspace
+
+I'm also involved with **[Odenwilusenz](https://github.com/odenwilusenz)**, where community hardware, software and maker projects live.
+
+---
+
+<div align="center">
+
+**Build it. Break it. Understand it. Improve it.**
+
+</div>
