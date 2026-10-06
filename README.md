@@ -20,16 +20,38 @@ Switzerland 🇨🇭
 
 ## ⌚ Pebble Time 2
 
-| Project | What it does |
-|---|---|
-| 💊 [**Nasu**](https://github.com/marukitano/Nasu) | Native medication reminder with scheduled doses, pills and injection pens |
-| 🩸 [**OpenLibreLinkUp**](https://github.com/marukitano/OpenLibreLinkUp) | Glucose-monitoring watchface using LibreLinkUp data |
-| ⏱️ [**Swiss Chronograph**](https://github.com/marukitano/Swiss-Chronograph) | Minimal swipe-driven countdown timer |
-| 🫧 [**Lavalamp**](https://github.com/marukitano/Lavalamp) | Animated binary watchface inspired by a lava lamp |
-| 🧭 [**FCK Gravity**](https://github.com/marukitano/FCK_Gravity) | Gravity-driven vector watchface |
-| 🔭 [**Hidden in Perspective**](https://github.com/marukitano/Hidden_in_Perspective) | Pebble Time 2 adaptation of the Perspective watchface |
-| ⏳ [**Past Present Future**](https://github.com/marukitano/past-present-future) | Animated watchface built around past, present and future |
-| ⚖️ [**WeightTracker**](https://github.com/marukitano/weighttracker-Pebble-time-2) | Standalone Pebble app for tracking weight over time |
+<table>
+<tr>
+<td width="240"><a href="https://github.com/marukitano/Nasu"><img src="https://raw.githubusercontent.com/marukitano/Nasu/main/docs/store-preview.jpg" width="220" alt="Nasu"></a></td>
+<td><a href="https://github.com/marukitano/Nasu"><strong>Nasu</strong></a><br>Native medication reminder with scheduled doses, pills and injection pens</td>
+</tr>
+<tr>
+<td width="240"><a href="https://github.com/marukitano/OpenLibreLinkUp"><img src="https://raw.githubusercontent.com/marukitano/OpenLibreLinkUp/main/docs/store-preview.jpg" width="220" alt="OpenLibreLinkUp"></a></td>
+<td><a href="https://github.com/marukitano/OpenLibreLinkUp"><strong>OpenLibreLinkUp</strong></a><br>Glucose-monitoring watchface using LibreLinkUp data</td>
+</tr>
+<tr>
+<td width="240"><a href="https://github.com/marukitano/Swiss-Chronograph"><img src="https://raw.githubusercontent.com/marukitano/Swiss-Chronograph/master/docs/store-preview.jpg" width="220" alt="Swiss Chronograph"></a></td>
+<td><a href="https://github.com/marukitano/Swiss-Chronograph"><strong>Swiss Chronograph</strong></a><br>Minimal swipe-driven countdown timer</td>
+</tr>
+<tr>
+<td width="240"><a href="https://github.com/marukitano/Lavalamp"><img src="https://raw.githubusercontent.com/marukitano/Lavalamp/master/docs/store-preview.jpg" width="220" alt="Lavalamp"></a></td>
+<td><a href="https://github.com/marukitano/Lavalamp"><strong>Lavalamp</strong></a><br>Animated binary watchface inspired by a lava lamp</td>
+</tr>
+<tr>
+<td width="240"><a href="https://github.com/marukitano/FCK_Gravity"><img src="https://raw.githubusercontent.com/marukitano/FCK_Gravity/master/docs/store-preview.jpg" width="220" alt="FCK Gravity"></a></td>
+<td><a href="https://github.com/marukitano/FCK_Gravity"><strong>FCK Gravity</strong></a><br>Gravity-driven vector watchface</td>
+</tr>
+<tr>
+<td width="240"><a href="https://github.com/marukitano/Hidden_in_Perspective"><img src="https://raw.githubusercontent.com/marukitano/Hidden_in_Perspective/master/docs/store-preview.jpg" width="220" alt="Hidden in Perspective"></a></td>
+<td><a href="https://github.com/marukitano/Hidden_in_Perspective"><strong>Hidden in Perspective</strong></a><br>Pebble Time 2 adaptation of the Perspective watchface</td>
+</tr>
+<tr>
+<td width="240"><a href="https://github.com/marukitano/past-present-future"><img src="https://raw.githubusercontent.com/marukitano/past-present-future/master/docs/store-preview.jpg" width="220" alt="Past Present Future"></a></td>
+<td><a href="https://github.com/marukitano/past-present-future"><strong>Past Present Future</strong></a><br>Animated watchface built around past, present and future</td>
+</tr>
+</table>
+
+**[WeightTracker](https://github.com/marukitano/weighttracker-Pebble-time-2)** — Standalone Pebble app for tracking weight over time
 
 ## 🔧 Hardware & Electronics
 
