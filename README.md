@@ -34,7 +34,7 @@ Switzerland 🇨🇭
 <td><a href="https://github.com/marukitano/Swiss-Chronograph"><strong>Swiss Chronograph</strong></a><br>Minimal swipe-driven countdown timer</td>
 </tr>
 <tr>
-<td width="240"><a href="https://github.com/marukitano/Lavalamp"><img src="https://raw.githubusercontent.com/marukitano/Lavalamp/master/docs/store-preview.jpg" width="220" alt="Lavalamp"></a></td>
+<td width="240"><a href="https://github.com/marukitano/Lavalamp"><img src="https://raw.githubusercontent.com/marukitano/Lavalamp/master/docs/lavalamp.png" width="220" alt="Lavalamp"></a></td>
 <td><a href="https://github.com/marukitano/Lavalamp"><strong>Lavalamp</strong></a><br>Animated binary watchface inspired by a lava lamp</td>
 </tr>
 <tr>
