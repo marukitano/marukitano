@@ -22,7 +22,7 @@ Switzerland 🇨🇭
 
 <table>
 <tr>
-<td width="240"><a href="https://github.com/marukitano/Nasu"><img src="https://raw.githubusercontent.com/marukitano/Nasu/main/docs/store-preview.jpg" width="220" alt="Nasu"></a></td>
+<td width="240"><a href="https://github.com/marukitano/Nasu"><img src="https://raw.githubusercontent.com/marukitano/Nasu/main/docs/nasu.png" width="220" alt="Nasu"></a></td>
 <td><a href="https://github.com/marukitano/Nasu"><strong>Nasu</strong></a><br>Native medication reminder with scheduled doses, pills and injection pens</td>
 </tr>
 <tr>
