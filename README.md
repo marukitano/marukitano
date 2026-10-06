@@ -53,11 +53,11 @@ A German translation of William Shotts' *The Linux Command Line*.
 
 ➡️ [**Open the translation project**](https://github.com/marukitano/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru)
 
-### 🗓️ 3ventz.ch
+### 🗓️ tech3ventz.ch
 
-A tiny cyberpunk-style yearly calendar for **hacker, maker, open-source and security events**.
+A free, community-driven yearly calendar for **hacker, maker, retro, coding and tech events** — without ads or tracking.
 
-➡️ [**Open 3ventz.ch**](https://github.com/marukitano/3ventz.ch)
+➡️ [**Open tech3ventz.ch**](https://github.com/marukitano/tech3ventz.ch)
 
 ## 🥾 Other projects
 
