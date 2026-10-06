@@ -31,6 +31,20 @@ Switzerland 🇨🇭
 | ⏳ [**Past Present Future**](https://github.com/marukitano/past-present-future) | Animated watchface built around past, present and future |
 | ⚖️ [**WeightTracker**](https://github.com/marukitano/weighttracker-Pebble-time-2) | Standalone Pebble app for tracking weight over time |
 
+## 🔧 Hardware & Electronics
+
+### BEP3.0
+
+Electronics interface for classic **BMW K-series motorcycles**, designed to replace the original instrument cluster with an aftermarket speedometer while keeping the original wiring loom as reversible as possible.
+
+The repository contains the **production and manufacturing files** for the BEP3.0.
+
+➡️ [**Open BEP3.0**](https://github.com/marukitano/BEP3.0)  
+🌐 [**Project page on maru-labs.com**](https://maru-labs.com/portfolio/bep3-0-5/)
+
+> Private and non-commercial copying, modification and rebuilding are permitted.  
+> Commercial use and sale are reserved by **Marcus Knop**. See the repository license for details.
+
 ## 🐧 Linux & Open Source
 
 ### 📖 The Linux Command Line — German Translation
