@@ -77,6 +77,10 @@ A German translation of William Shotts' *The Linux Command Line*.
 
 ### tech3ventz.ch
 
+<a href="https://tech3ventz.ch/">
+  <img src="https://raw.githubusercontent.com/marukitano/tech3ventz.ch/main/doc/Screenshot%20from%202026-10-06%2018-31-27.png" width="520" alt="tech3ventz.ch">
+</a>
+
 A free, community-driven yearly calendar for **hacker, maker, retro, coding and tech events** — without ads or tracking.
 
  [**Visit tech3ventz.ch**](https://tech3ventz.ch/)  
