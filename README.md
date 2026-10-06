@@ -26,7 +26,7 @@ Switzerland 🇨🇭
 <td><a href="https://github.com/marukitano/Nasu"><strong>Nasu</strong></a><br>Native medication reminder with scheduled doses, pills and injection pens</td>
 </tr>
 <tr>
-<td width="240"><a href="https://github.com/marukitano/OpenLibreLinkUp"><img src="https://raw.githubusercontent.com/marukitano/OpenLibreLinkUp/main/docs/store-preview-v2.jpg" width="220" alt="OpenLibreLinkUp"></a></td>
+<td width="240"><a href="https://github.com/marukitano/OpenLibreLinkUp"><img src="https://raw.githubusercontent.com/marukitano/OpenLibreLinkUp/main/docs/store-preview-v3.jpg" width="220" alt="OpenLibreLinkUp"></a></td>
 <td><a href="https://github.com/marukitano/OpenLibreLinkUp"><strong>OpenLibreLinkUp</strong></a><br>Glucose-monitoring watchface using LibreLinkUp data</td>
 </tr>
 <tr>
