@@ -79,7 +79,8 @@ A German translation of William Shotts' *The Linux Command Line*.
 
 A free, community-driven yearly calendar for **hacker, maker, retro, coding and tech events** — without ads or tracking.
 
-➡️ [**Open tech3ventz.ch**](https://github.com/marukitano/tech3ventz.ch)
+🌐 [**Visit tech3ventz.ch**](https://tech3ventz.ch/)  
+➡️ [**Open the source on GitHub**](https://github.com/marukitano/tech3ventz.ch)
 
 ## 🥾 Other projects
 
