@@ -38,7 +38,7 @@ Switzerland 🇨🇭
 <td><a href="https://github.com/marukitano/Lavalamp"><strong>Lavalamp</strong></a><br>Animated binary watchface inspired by a lava lamp</td>
 </tr>
 <tr>
-<td width="240"><a href="https://github.com/marukitano/FCK_Gravity"><img src="https://raw.githubusercontent.com/marukitano/FCK_Gravity/master/docs/store-preview.jpg" width="220" alt="FCK Gravity"></a></td>
+<td width="240"><a href="https://github.com/marukitano/FCK_Gravity"><img src="https://raw.githubusercontent.com/marukitano/FCK_Gravity/master/docs/FCK_gravity.png" width="220" alt="FCK Gravity"></a></td>
 <td><a href="https://github.com/marukitano/FCK_Gravity"><strong>FCK Gravity</strong></a><br>Gravity-driven vector watchface</td>
 </tr>
 <tr>
