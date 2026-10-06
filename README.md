@@ -42,7 +42,7 @@ Switzerland 🇨🇭
 <td><a href="https://github.com/marukitano/FCK_Gravity"><strong>FCK Gravity</strong></a><br>Gravity-driven vector watchface</td>
 </tr>
 <tr>
-<td width="240"><a href="https://github.com/marukitano/Hidden_in_Perspective"><img src="https://raw.githubusercontent.com/marukitano/Hidden_in_Perspective/master/docs/store-preview.jpg" width="220" alt="Hidden in Perspective"></a></td>
+<td width="240"><a href="https://github.com/marukitano/Hidden_in_Perspective"><img src="https://raw.githubusercontent.com/marukitano/Hidden_in_Perspective/master/docs/hidden_in_perspective.png" width="220" alt="Hidden in Perspective"></a></td>
 <td><a href="https://github.com/marukitano/Hidden_in_Perspective"><strong>Hidden in Perspective</strong></a><br>Pebble Time 2 adaptation of the Perspective watchface</td>
 </tr>
 <tr>
