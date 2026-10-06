@@ -30,7 +30,7 @@ Switzerland 🇨🇭
 <td><a href="https://github.com/marukitano/OpenLibreLinkUp"><strong>OpenLibreLinkUp</strong></a><br>Glucose-monitoring watchface using LibreLinkUp data</td>
 </tr>
 <tr>
-<td width="240"><a href="https://github.com/marukitano/Swiss-Chronograph"><img src="https://raw.githubusercontent.com/marukitano/Swiss-Chronograph/master/docs/store-preview.jpg" width="220" alt="Swiss Chronograph"></a></td>
+<td width="240"><a href="https://github.com/marukitano/Swiss-Chronograph"><img src="https://raw.githubusercontent.com/marukitano/Swiss-Chronograph/master/docs/swiss_chronograph.png" width="220" alt="Swiss Chronograph"></a></td>
 <td><a href="https://github.com/marukitano/Swiss-Chronograph"><strong>Swiss Chronograph</strong></a><br>Minimal swipe-driven countdown timer</td>
 </tr>
 <tr>
