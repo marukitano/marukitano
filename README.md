@@ -49,9 +49,11 @@ Switzerland 🇨🇭
 <td width="240"><a href="https://github.com/marukitano/past-present-future"><img src="https://raw.githubusercontent.com/marukitano/past-present-future/master/docs/past-present-future.png" width="220" alt="Past Present Future"></a></td>
 <td><a href="https://github.com/marukitano/past-present-future"><strong>Past Present Future</strong></a><br>Animated watchface built around past, present and future</td>
 </tr>
+<tr>
+<td width="240"><a href="https://github.com/marukitano/weighttracker"><img src="https://raw.githubusercontent.com/marukitano/weighttracker/master/assets/emery/preview.png" width="220" alt="WeightTracker"></a></td>
+<td><a href="https://github.com/marukitano/weighttracker"><strong>WeightTracker</strong></a><br>On-watch weight tracking with a scrollable chart, touch input and configurable BMI labels</td>
+</tr>
 </table>
-
-**[WeightTracker](https://github.com/marukitano/weighttracker-Pebble-time-2)** — Standalone Pebble app for tracking weight over time
 
 ## Hardware & Electronics
 
