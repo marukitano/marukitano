@@ -19,6 +19,51 @@ Hackerspace: [Odenwilusenz](https://github.com/odenwilusenz)
 
 ---
 
+### BEP3.0
+
+Electronics interface for classic **BMW K-series motorcycles**, designed to replace the original instrument cluster with an aftermarket speedometer while keeping the original wiring loom as reversible as possible.
+
+The repository contains the **production and manufacturing files** for the BEP3.0.
+
+ [**Open BEP3.0**](https://github.com/marukitano/BEP3.0)  
+ [**Project page on maru-labs.com**](https://maru-labs.com/portfolio/bep3-0-5/)
+
+> Private and non-commercial copying, modification and rebuilding are permitted.  
+> Commercial use and sale are reserved by **Marcus Knop**. See the repository license for details.
+
+---
+
+### tech3ventz.ch
+
+<a href="https://tech3ventz.ch/">
+  <img src="https://raw.githubusercontent.com/marukitano/tech3ventz.ch/main/doc/Screenshot%20from%202026-10-06%2018-31-27.png" width="520" alt="tech3ventz.ch">
+</a>
+
+A free, community-driven yearly calendar for **hacker, maker, retro, coding and tech events** — without ads or tracking.
+
+ [**Visit tech3ventz.ch**](https://tech3ventz.ch/)  
+ [**Open the source on GitHub**](https://github.com/marukitano/tech3ventz.ch)
+
+---
+
+### The Linux Command Line — German Translation
+
+A German translation of William Shotts' *The Linux Command Line*.
+
+ 🌐 **Webversion:** [The Linux Command Line – Deutsche Übersetzung](https://marukitano.github.io/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru/)  
+ 📄 **PDF:** [The Linux Command Line – Deutsche Übersetzung](https://marukitano.github.io/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru/The-Linux-Command-Line-DE.pdf)  
+ [**Open the translation project**](https://github.com/marukitano/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru)
+
+---
+
+### Camino Guard
+
+A Camino de Santiago companion project for the Pebble Time 2, focused on route progress, daily destinations, elevation data and off-route warnings.
+
+ [**Open Camino Guard**](https://github.com/marukitano/Camino-Guard)
+
+---
+
 ## Pebble Time 2
 
 <table>
@@ -55,51 +100,6 @@ Hackerspace: [Odenwilusenz](https://github.com/odenwilusenz)
 <td><a href="https://github.com/marukitano/weighttracker"><strong>WeightTracker</strong></a><br>On-watch weight tracking with a scrollable chart, touch input and configurable BMI labels</td>
 </tr>
 </table>
-
----
-
-### BEP3.0
-
-Electronics interface for classic **BMW K-series motorcycles**, designed to replace the original instrument cluster with an aftermarket speedometer while keeping the original wiring loom as reversible as possible.
-
-The repository contains the **production and manufacturing files** for the BEP3.0.
-
- [**Open BEP3.0**](https://github.com/marukitano/BEP3.0)  
- [**Project page on maru-labs.com**](https://maru-labs.com/portfolio/bep3-0-5/)
-
-> Private and non-commercial copying, modification and rebuilding are permitted.  
-> Commercial use and sale are reserved by **Marcus Knop**. See the repository license for details.
-
----
-
-### The Linux Command Line — German Translation
-
-A German translation of William Shotts' *The Linux Command Line*.
-
- 🌐 **Webversion:** [The Linux Command Line – Deutsche Übersetzung](https://marukitano.github.io/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru/)  
- 📄 **PDF:** [The Linux Command Line – Deutsche Übersetzung](https://marukitano.github.io/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru/The-Linux-Command-Line-DE.pdf)  
- [**Open the translation project**](https://github.com/marukitano/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru)
-
----
-
-### tech3ventz.ch
-
-<a href="https://tech3ventz.ch/">
-  <img src="https://raw.githubusercontent.com/marukitano/tech3ventz.ch/main/doc/Screenshot%20from%202026-10-06%2018-31-27.png" width="520" alt="tech3ventz.ch">
-</a>
-
-A free, community-driven yearly calendar for **hacker, maker, retro, coding and tech events** — without ads or tracking.
-
- [**Visit tech3ventz.ch**](https://tech3ventz.ch/)  
- [**Open the source on GitHub**](https://github.com/marukitano/tech3ventz.ch)
-
----
-
-### Camino Guard
-
-A Camino de Santiago companion project for the Pebble Time 2, focused on route progress, daily destinations, elevation data and off-route warnings.
-
- [**Open Camino Guard**](https://github.com/marukitano/Camino-Guard)
 
 ---
 
