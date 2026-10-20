@@ -58,7 +58,7 @@ A German translation of William Shotts' *The Linux Command Line*.
 
 ### Camino Guard
 
-A Camino de Santiago companion project for the Pebble Time 2, focused on route progress, daily destinations, elevation data and off-route warnings.
+An offline navigation project covering all official Caminos in Spain and Portugal. The Pebble Time 2 integration is an optional companion extension for compact navigation and walking information.
 
  [**Open Camino Guard**](https://github.com/marukitano/Camino-Guard)
 
