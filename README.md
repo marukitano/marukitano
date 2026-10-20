@@ -75,6 +75,8 @@ The repository contains the **production and manufacturing files** for the BEP3.
 
 A German translation of William Shotts' *The Linux Command Line*.
 
+ 🌐 **Webversion:** [The Linux Command Line – Deutsche Übersetzung](https://marukitano.github.io/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru/)  
+ 📄 **PDF:** [The Linux Command Line – Deutsche Übersetzung](https://marukitano.github.io/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru/The-Linux-Command-Line-DE.pdf)  
  [**Open the translation project**](https://github.com/marukitano/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru)
 
 ### tech3ventz.ch
