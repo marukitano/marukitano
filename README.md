@@ -55,7 +55,7 @@ Switzerland 🇨🇭
 </tr>
 </table>
 
-## Hardware & Electronics
+---
 
 ### BEP3.0
 
@@ -69,7 +69,7 @@ The repository contains the **production and manufacturing files** for the BEP3.
 > Private and non-commercial copying, modification and rebuilding are permitted.  
 > Commercial use and sale are reserved by **Marcus Knop**. See the repository license for details.
 
-## Linux & Open Source
+---
 
 ### The Linux Command Line — German Translation
 
@@ -78,6 +78,8 @@ A German translation of William Shotts' *The Linux Command Line*.
  🌐 **Webversion:** [The Linux Command Line – Deutsche Übersetzung](https://marukitano.github.io/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru/)  
  📄 **PDF:** [The Linux Command Line – Deutsche Übersetzung](https://marukitano.github.io/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru/The-Linux-Command-Line-DE.pdf)  
  [**Open the translation project**](https://github.com/marukitano/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru)
+
+---
 
 ### tech3ventz.ch
 
@@ -90,7 +92,7 @@ A free, community-driven yearly calendar for **hacker, maker, retro, coding and 
  [**Visit tech3ventz.ch**](https://tech3ventz.ch/)  
  [**Open the source on GitHub**](https://github.com/marukitano/tech3ventz.ch)
 
-## Other projects
+---
 
 ### Camino Guard
 
