@@ -103,6 +103,14 @@ An offline navigation project covering all official Caminos in Spain and Portuga
 
 ---
 
+### Owili
+
+A gesture-driven Android list app inspired by Clear, with an ocean-inspired interface, animated perspective cards, local storage and planned Pebble smartwatch integration.
+
+ [**Open Owili**](https://github.com/marukitano/Owili)
+
+---
+
 ## Things I enjoy
 
 `Linux` · `Open Source` · `Pebble` · `Embedded Systems` · `Cybersecurity` · `Hardware` · `3D Printing` · `Maker Projects`
