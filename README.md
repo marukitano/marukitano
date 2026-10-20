@@ -4,7 +4,8 @@
 
 **Mechanical engineer · Linux enthusiast · maker · open-source tinkerer**
 
-Switzerland 🇨🇭
+Switzerland 🇨🇭  
+Hackerspace: [Odenwilusenz](https://github.com/odenwilusenz)
 
 ![Linux](https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-111?style=flat-square&logo=opensourceinitiative&logoColor=white)
@@ -105,10 +106,6 @@ A Camino de Santiago companion project for the Pebble Time 2, focused on route p
 ## Things I enjoy
 
 `Linux` · `Open Source` · `Pebble` · `Embedded Systems` · `Cybersecurity` · `Hardware` · `3D Printing` · `Maker Projects`
-
-## Hackerspace
-
-I'm also involved with **[Odenwilusenz](https://github.com/odenwilusenz)**, where community hardware, software and maker projects live.
 
 ---
 
