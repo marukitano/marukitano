@@ -111,6 +111,14 @@ A gesture-driven Android list app inspired by Clear, with an ocean-inspired inte
 
 ---
 
+### TuxTap
+
+An NFC-based app built around Tux, turning a physical NFC tag into a simple interactive Linux companion.
+
+ [**Open TuxTap**](https://github.com/marukitano/TuxTap)
+
+---
+
 ## Things I enjoy
 
 `Linux` · `Open Source` · `Pebble` · `Embedded Systems` · `Cybersecurity` · `Hardware` · `3D Printing` · `Maker Projects`
