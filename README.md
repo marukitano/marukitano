@@ -48,6 +48,10 @@ A free, community-driven yearly calendar for **hacker, maker, retro, coding and 
 
 ### The Linux Command Line — German Translation
 
+<a href="https://github.com/marukitano/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru">
+  <img src="https://raw.githubusercontent.com/marukitano/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru/main/Images/Cover_swiss.png" width="220" alt="The Linux Command Line – Deutsche Übersetzung">
+</a>
+
 A German translation of William Shotts' *The Linux Command Line*.
 
  🌐 **Webversion:** [The Linux Command Line – Deutsche Übersetzung](https://marukitano.github.io/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru/)  
