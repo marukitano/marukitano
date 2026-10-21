@@ -21,6 +21,10 @@ Hackerspace: [Odenwilusenz](https://github.com/odenwilusenz)
 
 ### BEP3.0
 
+<a href="https://github.com/marukitano/BEP3.0">
+  <img src="https://raw.githubusercontent.com/marukitano/BEP3.0/main/BEP_Cover.png" width="520" alt="BEP3.0">
+</a>
+
 Electronics interface for classic **BMW K-series motorcycles**, designed to replace the original instrument cluster with an aftermarket speedometer while keeping the original wiring loom as reversible as possible.
 
 The repository contains the **production and manufacturing files** for the BEP3.0.
