@@ -66,6 +66,10 @@ A German translation of William Shotts' *The Linux Command Line*.
 
 ### Camino Guard
 
+<a href="https://github.com/marukitano/Camino-Guard">
+  <img src="https://raw.githubusercontent.com/marukitano/Camino-Guard/main/Screenshot_20261022-212448_Camino%20Guard.png" width="320" alt="Camino Guard">
+</a>
+
 An offline navigation project covering all official Caminos in Spain and Portugal. The Pebble Time 2 integration is an optional companion extension for compact navigation and walking information.
 
  [**Open Camino Guard**](https://github.com/marukitano/Camino-Guard)
