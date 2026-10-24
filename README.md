@@ -104,7 +104,7 @@ An offline navigation project covering all official Caminos in Spain and Portuga
 <td><a href="https://github.com/marukitano/Hidden_in_Perspective"><strong>Hidden in Perspective</strong></a><br>Pebble Time 2 adaptation of the Perspective watchface</td>
 </tr>
 <tr>
-<td width="240"><a href="https://github.com/marukitano/TimeShift"><img src="https://raw.githubusercontent.com/marukitano/past-present-future/master/docs/past-present-future.png" width="220" alt="TimeShift"></a></td>
+<td width="240"><a href="https://github.com/marukitano/TimeShift"><img src="https://raw.githubusercontent.com/marukitano/TimeShift/master/docs/timeshift.png" width="220" alt="TimeShift"></a></td>
 <td><a href="https://github.com/marukitano/TimeShift"><strong>TimeShift</strong></a><br>Animated watchface built around past, present and future</td>
 </tr>
 <tr>
